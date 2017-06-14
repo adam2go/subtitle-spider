@@ -2,7 +2,7 @@
 
 ## Goal
 
-Make a spider to scrowl subtitle data from website [字幕库](http://www.zimuku.net/). 
+Make a spider to scrawl data from subtitle website ([字幕库](http://www.zimuku.net/)). 
 
 ## Prerequisites
 
