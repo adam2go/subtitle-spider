@@ -4,10 +4,6 @@
 
 Make a spider to scrowl subtitle data from website [字幕库](http://www.zimuku.net/). 
 
-## About me
-```javascript
-  scrapy runspider shareditor.py
-```
 ## Prerequisites
 
 - Python 2.7 or Python 3.3+
@@ -24,4 +20,3 @@ Go to the top folder(subtitle) and run it like this:
 ## Results
 
 ![result](assets/result.JPG)
-
