@@ -11,7 +11,7 @@ Make a spider to scrawl data from subtitle website ([字幕库](http://www.zimuk
 
 ## Usage
 
-Go to the top folder(subtitle) and run it like this:
+Go to the top folder (subtitle) and run spider like this:
 
 ```javascript
   scrapy runspider subtitle/spiders/subtitle_spider.py
